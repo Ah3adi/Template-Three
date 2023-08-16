@@ -3,4 +3,4 @@ HTML And CSS Design
 
 Learned From Elzero Wep School
 
-https://ah3adi.github.io/Template_Three/
+https://ah3adi.github.io/Template-Three/
