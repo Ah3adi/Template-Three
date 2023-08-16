@@ -938,12 +938,16 @@ header .mega-menu li a:hover::after {
     }
 
     .team .box .data img {
-        margin-left: 25px;
+        margin-left: 15px;
     }
 
     .team .box .info {
         text-align: center;
         padding: 0;
+    }
+
+    .team .box .data .social {
+        width: 45px;
     }
 }
 
